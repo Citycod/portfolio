@@ -78,9 +78,6 @@ color: white !important;
   transition: all 1.0s ease-in-out;
 }
 
-.icon-box:hover {
-  outline: 1px solid white;
-  outline-offset: 5px;
   cursor: pointer;
 }
 
