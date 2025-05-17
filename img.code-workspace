@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "img",
+			"path": "../../Downloads/bootstrap-bootcamp-website-main/bootstrap-bootcamp-website-main/img"
+		},
+		{
+			"name": "my portfolio",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my portfolio"
+	}
+}
